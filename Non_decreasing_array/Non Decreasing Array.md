@@ -2,7 +2,6 @@ Given an array with n integers, your task is to check if it could become non-dec
 
 We define an array is non-decreasing if array[i] <= array[i + 1] holds for every i (1 <= i < n).
 
-
 > Input: [4,2,3]
 
 Output: True
